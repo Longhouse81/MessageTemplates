@@ -1,2 +1,2 @@
 # MessageTemplates
-A Plugin for the Discord "APP" (Bot) Botloader
+A Plugin for the Discord "APP" (Bot) Botloader https://botloader.io/
