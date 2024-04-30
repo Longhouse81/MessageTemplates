@@ -3,4 +3,5 @@
 
 # Not these files
 !MessageTemplates.ts
+!conversionMap.ts
 !README.md
