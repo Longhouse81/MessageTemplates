@@ -3,3 +3,4 @@
 
 # Not these files
 !MessageTemplates.ts
+!README.md
