@@ -1,7 +1,6 @@
 # Ignore everything
 *
-
 # Not these files
 !MessageTemplates.ts
-!conversionMap.ts
+!placeholderMap.ts
 !README.md
