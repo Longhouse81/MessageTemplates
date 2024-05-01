@@ -1,15 +1,15 @@
 export const placeholderMap: {[key: string]: string[]} = {
-    'content': ['userName', 'userId', 'userMention', 'userTag', 'channelName', 'channelId', 'channelMention'],
-    'authorName': ['userName', 'userId', 'userTag', 'channelName', 'channelId'],
+    'content': ['userName', 'userID', 'userMention', 'userTag', 'channelName', 'channelID', 'channelMention'],
+    'authorName': ['userName', 'userID', 'userTag', 'channelName', 'channelID'],
     'authorIconUrl': ['userAvatarURL'],
     'color': ['discordBlurple', 'discordFuchsia', 'discordGreen', 'discordRed', 'discordYellow', 'randomColor'],
-    'description': ['userName', 'userId', 'userMention', 'channelName', 'channelId', 'channelMention'],
-    'fieldName': ['userName', 'userId', 'channelName', 'channelId', 'channelMention'],
-    'fieldValue': ['userName', 'userId', 'userMention', 'channelName', 'channelId', 'channelMention'],
-    'footerText': ['userName', 'userId', 'channelName', 'channelId'],
+    'description': ['userName', 'userID', 'userMention', 'channelName', 'channelID', 'channelMention'],
+    'fieldName': ['userName', 'userID', 'channelName', 'channelID', 'channelMention'],
+    'fieldValue': ['userName', 'userID', 'userMention', 'channelName', 'channelID', 'channelMention'],
+    'footerText': ['userName', 'userID', 'channelName', 'channelID'],
     'footerIconUrl': ['userAvatarURL'],
     'imageUrl': ['userAvatarURL'],
     'thumbnailUrl': ['userAvatarURL'],
     'timestamp': ['currentTime'],
-    'title': ['userName', 'userId', 'channelName', 'channelId', 'channelMention']
+    'title': ['userName', 'userID', 'channelName', 'channelID', 'channelMention']
 }

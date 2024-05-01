@@ -11,11 +11,11 @@ A Plugin for the Discord "APP" (Bot) Botloader https://botloader.io/
 | Placeholders | Description |
 | :--- | :--- |
 | $userName | Username of the triggering user |
-| $userId | User ID of the triggering user |
+| $userID | User ID of the triggering user |
 | $userMention |  |
 | $userAvatarURL |  |
 | $channelName |  |
-| $channelId |  |
+| $channelID |  |
 | $channelMention |  |
 | $discordBlurple | Official Discord Themed color Burple (Purple). |
 | $discordFuchsia |  |
@@ -28,17 +28,17 @@ A Plugin for the Discord "APP" (Bot) Botloader https://botloader.io/
 
 | Use Location | Placeholders |
 | :--- | :--- |
-| content | $userName, $userId, $userMention, $channelName, $channelId, $channelMention |
-| authorName | $userName, $userId, $channelName, $channelId |
+| content | $userName, $userID, $userMention, $channelName, $channelID, $channelMention |
+| authorName | $userName, $userID, $channelName, $channelID |
 | authorIconUrl | $userAvatarURL |
 | color | $discordBlurple, $discordFuchsia, $discordGreen, $discordRed, $discordYellow, $randomColor |
-| description | $userName, $userId, $userMention, $channelName, $channelId, $channelMention |
-| fieldName | $userName, $userId, $channelName, $channelId, $channelMention |
-| fieldValue | $userName, $userId, $userMention, $channelName, $channelId, $channelMention |
-| footerText | $userName, $userId, $channelName, $channelId |
+| description | $userName, $userID, $userMention, $channelName, $channelID, $channelMention |
+| fieldName | $userName, $userID, $channelName, $channelID, $channelMention |
+| fieldValue | $userName, $userID, $userMention, $channelName, $channelID, $channelMention |
+| footerText | $userName, $userID, $channelName, $channelID |
 | footerIconUrl | $userAvatarURL |
 | imageUrl | $userAvatarURL |
 | thumbnailUrl | $userAvatarURL |
 | timestamp | $currentTime |
-| title | $userName, $userId, $channelName, $channelId, $channelMention |
+| title | $userName, $userID, $channelName, $channelID, $channelMention |
 
